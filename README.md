@@ -1,2 +1,3 @@
-# didactic-engine
-ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸
+# didactic-engin
+
+‚±‚ñ‚É‚¿‚Í
